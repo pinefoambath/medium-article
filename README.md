@@ -1,2 +1,2 @@
 # medium-article
-I recreated the look of www.medium.com artices to practice HTML and CSS.
+I recreated the look of www.medium.com articles to practice HTML and CSS.
